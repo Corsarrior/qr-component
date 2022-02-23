@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Corsarrior/qr-component.git)
-- Live Site URL: [Add live site URL here](https://qr-component-challenge.glitch.me/)
+- [Solution URL](https://github.com/Corsarrior/qr-component.git)
+- [Live Site URL](https://qr-component-challenge.glitch.me/)
 
 ## My process
 
